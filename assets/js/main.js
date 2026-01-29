@@ -350,9 +350,9 @@
                 el: ".swiper-pagination",
                 clickable: true,
             },
-            thumbs: {
-                swiper: teamThumb,
-            },
+            // thumbs: {
+            //     swiper: teamThumb,
+            // },
         });
 
         // Brand Slider
